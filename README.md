@@ -101,4 +101,4 @@ For every yet *unsupported* module `passContext()` can be used to provide transa
 
 
 ## License
-Licensed under the MIT License. See the LICENSE file for details. analytics
+Licensed under the MIT License. See the LICENSE file for details.
