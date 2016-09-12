@@ -1,0 +1,32 @@
+{
+  "name": "dynatrace-agent-api",
+  "version": "1.0.0",
+  "description": "Node.js bindings for Dynatrace OneAgent",
+  "engines":{"node": ">= 4.0.0"},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dynatrace/nodejs-agent-api.git"
+  },
+  "keywords": [
+    "dynatrace",
+    "ruxit",
+    "tracing",
+    "monitoring",
+    "performance",
+    "node.js",
+    "sdk"
+  ],
+  "author": "Daniel Khan <daniel.khan@dynatrace.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dynatrace/sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/Dynatrace/sdk-nodejs#readme",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
