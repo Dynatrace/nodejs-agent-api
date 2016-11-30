@@ -99,8 +99,8 @@ This means: Dynatrace will transparently wrap *supported* libraries to add conte
 For every yet *unsupported* module `passContext()` can be used to provide transactional context to callbacks.
 
 ## Disclaimer
-This software is experimental and currently NOT SUPPORTED by Dynatrace. 
-Please use at your own risk. You can contact the author via Github issues.
+This module is supported by the Dynatrace Innovation Lab.
+Please use the issue tracker to report any problems or ask questions.
 
 
 ## License
