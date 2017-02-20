@@ -18,7 +18,7 @@ in rare cases - so only use this module if transactions seem to be incomplete.
 
 #### Example: Regular callbacks
 ```js
-const dta = require('dynatrace-agent-api')();
+const dta = require('@dynatrace/agent-api')();
 
 some.asyncFunction(someParam, dta.passContext(function(err, result) {
    // Context is preserved
