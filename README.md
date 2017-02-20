@@ -11,6 +11,8 @@ in rare cases - so only use this module if transactions seem to be incomplete.
 
 ## Quick Start
 
+Deprecated. Please use @dynatrace/agent-api instead.
+
 ### Installation
 `$ npm install --save dynatrace-agent-api`
 
