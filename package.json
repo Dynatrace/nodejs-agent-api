@@ -1,6 +1,6 @@
 {
   "name": "dynatrace-agent-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Node.js bindings for Dynatrace OneAgent",
   "engines":{"node": ">= 4.0.0"},
   "main": "./lib/index.js",
@@ -23,9 +23,9 @@
   "author": "Daniel Khan <daniel.khan@dynatrace.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dynatrace/sdk-nodejs/issues"
+    "url": "https://github.com/Dynatrace/nodejs-agent-api/issues"
   },
-  "homepage": "https://github.com/Dynatrace/sdk-nodejs#readme",
+  "homepage": "https://github.com/Dynatrace/nodejs-agent-api#readme",
   "dependencies": {
     "debug": "^2.2.0"
   }
