@@ -12,7 +12,7 @@ in rare cases - so only use this module if transactions seem to be incomplete.
 ## Quick Start
 
 ### Installation
-`$ npm install --save dynatrace-agent-api`
+`$ npm install --save @dynatrace/agent-api`
 
 ### Usage
 
