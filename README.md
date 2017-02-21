@@ -5,7 +5,7 @@ monitored with [Dynatrace](https://www.dynatrace.com/technologies/nodejs-monitor
 
 ## What does this module provide?
 The current version provides a method `passContext()` which passes transactional context 
-through chains of callbacks for *new modules that are not yet supported out of the box*.
+through chains of callbacks for *new modules that are not yet supported out-of-the-box*.
 Dynatrace supports many technologies out-of-the-box and this module needs to be used only 
 in rare corner cases - so only use this module if transactions seem to be incomplete.
 
