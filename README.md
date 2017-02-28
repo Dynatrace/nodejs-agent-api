@@ -28,10 +28,10 @@ some.asyncFunction(someParam, dta.passContext(function(err, result) {
 
 #### Example: Express route with couchDB middleware and promises
 ```js
-const dta = require('dynatrace-agent-api')();
+const dta = require('@dynatrace/agent-api')();
 
 function couchMiddleware(req, res, next) {
-  couch.get("testdb", "123a3354452ddfa2973ec0a477000f7a").then(dta.passContext(couchCallback), err => {
+  couch.get('testdb', '123a3354452ddfa2973ec0a477000f7a').then(dta.passContext(couchCallback), err => {
     if(err) throw err;
   }).then(dta.passContext(next)); 
 }
