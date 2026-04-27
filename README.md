@@ -1,3 +1,7 @@
+⚠️ This repository has been archived and is no longer maintained.
+The code is available for historical reference or archival purposes.
+The content repo has moved to https://github.com/Dynatrace/OneAgent-SDK-for-NodeJs
+
 # Node.js API for Dynatrace OneAgent
 
 This module provides JavaScript bindings for Node.js applications 
